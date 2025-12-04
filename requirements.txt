@@ -1,1 +1,12 @@
+ultralytics
+torch
+torchvision
+opencv-python
+numpy
+requests
+Pillow
+fastapi
+uvicorn
+python-multipart
+supabase
 
